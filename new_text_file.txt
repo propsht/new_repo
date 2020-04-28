@@ -1,0 +1,5 @@
+В ответ на данное упражнение, выслать скриншот, на котором будет видна git bash console иллюстрирующая успешный pull, а также будет отображаться содержимое директории ранее склонированного репозитория и содержимое удаленного репозитория (GitHub).
+
+git bash console (pull)
+working directory (cloned repository)
+git Hub - remote repository content.
